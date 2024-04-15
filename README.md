@@ -119,9 +119,11 @@ return 0;
 ```
 ## OUTPUT
 $ ./sem.o 
+
 ![alt text](image.png)
 
 $ ipcs
+
 ![alt text](image-1.png)
 # RESULT:
 The program is executed successfully.
